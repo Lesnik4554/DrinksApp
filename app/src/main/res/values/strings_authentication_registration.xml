@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Authentication
+    <string name="authentication">Авторизация</string>
+    <string name="your_email">Ваш email</string>
+    <string name="your_password">Ваш пароль</string>
+    <string name="login">Авторизация</string>
+    <string name="registration">Регистрация</string>
+
+    //registration
+    <string name="in_name">Введите имя</string>
+    <string name="in_family">Введите фамилию</string>
+    <string name="in_email">Введите email</string>
+    <string name="in_password">Введите пароль</string>
+    <string name="in_registration">Зарегистрироваться</string>
+</resources>

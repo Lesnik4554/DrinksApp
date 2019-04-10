@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "280107528991",
+    "firebase_url": "https://drinksapp-5f783.firebaseio.com",
+    "project_id": "drinksapp-5f783",
+    "storage_bucket": "drinksapp-5f783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280107528991:android:f72cbaa8ae406c31",
+        "android_client_info": {
+          "package_name": "com.repaka.apps.drinksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280107528991-n6mnvo9leu8f6tsr0cqibg6oiuip2mcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.repaka.apps.drinksapp",
+            "certificate_hash": "040e3d148f80c718401b670c902d9494ae9b2cd3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhMqg6BRb0DCbETHDe4Kjzcjmp3VPAkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280107528991-d043fiuf2fbo214r1fbcqremiomdku17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
